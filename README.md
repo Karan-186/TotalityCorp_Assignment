@@ -1,7 +1,7 @@
 # TotalityCorp_Assignment
 
 
-Below is the video showcasing the UI motions, as per your assignment requirements.
+Below is the video showcasing the UI motions, as per assignment requirements.
 
 https://github.com/Karan-186/TotalityCorp_Assignment/assets/90308510/4e9fd69a-3c40-4a26-83c0-21238d6ce5f6
 
