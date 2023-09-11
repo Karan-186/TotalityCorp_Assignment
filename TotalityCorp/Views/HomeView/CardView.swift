@@ -104,7 +104,7 @@ struct CardView: View {
                 }
             }
             .onAppear {
-                // Animate the ScrollView in from the right
+                // Animate the ScrollView Rectangles in from the right
                 DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
                     withAnimation {
                         xOffset = 0
